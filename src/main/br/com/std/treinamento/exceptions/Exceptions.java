@@ -1,10 +1,12 @@
-package br.com.std.treinamento;
+package br.com.std.treinamento.exceptions;
+
+import br.com.std.treinamento.exceptions.Constantes;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
 
-public class Exceptions implements Constantes{
+public class Exceptions implements Constantes {
 
     private int passengers;
    // private String path = "C:\\Users\\carlos\\Documents\\repository\\treinamento\\src\\test\\arquivos";

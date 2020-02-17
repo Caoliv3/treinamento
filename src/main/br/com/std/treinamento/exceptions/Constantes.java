@@ -1,4 +1,4 @@
-package br.com.std.treinamento;
+package br.com.std.treinamento.exceptions;
 
 public interface Constantes {
 
