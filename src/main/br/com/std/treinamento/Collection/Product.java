@@ -14,4 +14,11 @@ public class Product {
     public String getName(){ return name;}
     public int getWeight(){ return weight;}
 
+    @Override
+    public String toString() {
+        return "Product{" +
+                "name='" + name + '\'' +
+                ", weight=" + weight +
+                '}';
+    }
 }
