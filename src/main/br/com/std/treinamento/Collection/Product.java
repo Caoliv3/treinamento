@@ -21,4 +21,5 @@ public class Product {
                 ", weight=" + weight +
                 '}';
     }
+
 }
